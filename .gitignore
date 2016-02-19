@@ -1,0 +1,14 @@
+# pyc files
+*.pyc
+*.pyo
+*.swm
+*.swn
+*.swo
+*.swp
+.ropeproject
+.coverage
+/.tox
+/zerodb_compress_lz4.egg-info
+/dist
+/build
+.cache
